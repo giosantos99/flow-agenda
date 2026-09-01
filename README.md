@@ -90,6 +90,7 @@ ou
 Node.js 24
 ou
 Node.js >= 22.12
+```
 
 ---
 
