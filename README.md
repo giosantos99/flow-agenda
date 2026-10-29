@@ -97,7 +97,7 @@ Node.js >= 22.12
 ## 🚀 Instalação
 
 Clone o repositório:
-git clone <https://github.com/giosantos99/FlowAgenda.git>
+git clone <https://github.com/giosantos99/flow-agenda.git>
 
 Entre na pasta do projeto:
 cd FlowAgenda
